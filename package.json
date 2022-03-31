@@ -28,13 +28,13 @@
   "eslintIgnore": [
     "/.eslintrc.js"
   ],
-  "huskey": {
+  "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
-    "src/**/*.{js,ts}": [
+    "src/**/*.{js,jsx,ts,tsx}": [
       "npm run lint-fix"
     ]
   }
