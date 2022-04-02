@@ -15,5 +15,7 @@ module.exports = {
 		"project": "./tsconfig.json"
 	},
 	root: true,
-	rules: {}
+	rules: {
+		"@typescript-eslint/no-inferrable-types": "off",
+	}
 }
