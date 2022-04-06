@@ -45,8 +45,23 @@
 // 	console.log("Function parameter sample 7" , message)
 // }
 
-import arraySample from "./array/array"
-import tupleSample from "./array/tuple"
+// import arraySample from "./array/array"
+// import tupleSample from "./array/tuple"
 
-arraySample()
-tupleSample()
+// arraySample()
+// tupleSample()
+
+// import genericsBasicSample from "./generics/basic"
+// import genericsAdvanceSample from "./generics/advanced"
+
+// genericsBasicSample()
+// genericsAdvanceSample()
+
+// import callbackSample from "./asynchronous/callback";
+// callbackSample()
+
+// import promiseSamle from "./asynchronous/promise";
+// promiseSamle()
+
+// import asyncAwaitSample from "./asynchronous/asyncAwaitSample";
+// asyncAwaitSample()
